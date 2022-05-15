@@ -1,0 +1,4 @@
+Premium 1 Bob Lou Scar 0.0 3 5
+Standard 2 Kiera Lee Puff 0.0 5
+Standard 3 Jake Nam Popcorn 0.0 5
+Premium 4 Dan Shulter Bane 0.0 5 2
